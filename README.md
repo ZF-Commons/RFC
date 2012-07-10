@@ -1,4 +1,3 @@
-RFC
-===
+# [ZF-Commons RFC Wiki](https://github.com/ZF-Commons/RFC/wiki)
 
-Placeholder repo for RFCs wiki -- Add new proposals for ZF-Commons modules in the wiki.
+Proposals for new ZF-Commons modules can be browsed and submitted on [the ZF-Commons RFC Wiki](https://github.com/ZF-Commons/RFC/wiki).
